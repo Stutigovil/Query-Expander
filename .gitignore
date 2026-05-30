@@ -1,0 +1,12 @@
+.env
+Models/
+datasets/
+*.csv
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+__pycache__/
+venv/
+.venv/
+.ipynb_checkpoints/

@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+transformers
+torch
+datasets
+scikit-learn
+pandas
+numpy
+python-dotenv
